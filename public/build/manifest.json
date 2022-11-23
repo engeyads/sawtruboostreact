@@ -1,0 +1,388 @@
+{
+  "resources/images/client2.webp": {
+    "file": "assets/client2.5643f44b.webp",
+    "src": "resources/images/client2.webp"
+  },
+  "resources/images/cybersky.webp": {
+    "file": "assets/cybersky.bac451b0.webp",
+    "src": "resources/images/cybersky.webp"
+  },
+  "resources/images/client1.webp": {
+    "file": "assets/client1.1b1ad960.webp",
+    "src": "resources/images/client1.webp"
+  },
+  "resources/images/client3.webp": {
+    "file": "assets/client3.712e8d0a.webp",
+    "src": "resources/images/client3.webp"
+  },
+  "resources/images/business-partners-handshake-international-corporate.webp": {
+    "file": "assets/business-partners-handshake-international-corporate.bbaa2ff9.webp",
+    "src": "resources/images/business-partners-handshake-international-corporate.webp"
+  },
+  "resources/images/Blacklogo.svg": {
+    "file": "assets/Blacklogo.ae43a7dc.svg",
+    "src": "resources/images/Blacklogo.svg"
+  },
+  "resources/images/example1.webp": {
+    "file": "assets/example1.18be6cf8.webp",
+    "src": "resources/images/example1.webp"
+  },
+  "resources/images/man-holding-credit-card-hand-entering-security-code-using-laptop-keyboard.webp": {
+    "file": "assets/man-holding-credit-card-hand-entering-security-code-using-laptop-keyboard.854466ac.webp",
+    "src": "resources/images/man-holding-credit-card-hand-entering-security-code-using-laptop-keyboard.webp"
+  },
+  "resources/images/united-kingdom.svg": {
+    "file": "assets/united-kingdom.4758d85e.svg",
+    "src": "resources/images/united-kingdom.svg"
+  },
+  "resources/images/palestine.svg": {
+    "file": "assets/palestine.2148c9c5.svg",
+    "src": "resources/images/palestine.svg"
+  },
+  "resources/images/example2.webp": {
+    "file": "assets/example2.64abe220.webp",
+    "src": "resources/images/example2.webp"
+  },
+  "resources/images/top-view-man-doing-online-shopping-his-laptop.webp": {
+    "file": "assets/top-view-man-doing-online-shopping-his-laptop.9ee06c93.webp",
+    "src": "resources/images/top-view-man-doing-online-shopping-his-laptop.webp"
+  },
+  "resources/images/Whitelogo.svg": {
+    "file": "assets/Whitelogo.16ed0a5c.svg",
+    "src": "resources/images/Whitelogo.svg"
+  },
+  "resources/images/SVG/Logo.svg": {
+    "file": "assets/Logo.935e600c.svg",
+    "src": "resources/images/SVG/Logo.svg"
+  },
+  "resources/images/SVG/Logo_Text.svg": {
+    "file": "assets/Logo_Text.858904e0.svg",
+    "src": "resources/images/SVG/Logo_Text.svg"
+  },
+  "resources/css/fonts/blont.otf": {
+    "file": "assets/blont.ce7e92b7.otf",
+    "src": "resources/css/fonts/blont.otf"
+  },
+  "resources/images/SVG/facebook.svg": {
+    "file": "assets/facebook.5e3bf3f7.svg",
+    "src": "resources/images/SVG/facebook.svg"
+  },
+  "resources/images/SVG/tiktok.svg": {
+    "file": "assets/tiktok.12736e32.svg",
+    "src": "resources/images/SVG/tiktok.svg"
+  },
+  "resources/images/SVG/instagram.svg": {
+    "file": "assets/instagram.113e4287.svg",
+    "src": "resources/images/SVG/instagram.svg"
+  },
+  "resources/images/SVG/BGBirds.svg": {
+    "file": "assets/BGBirds.e288e2d4.svg",
+    "src": "resources/images/SVG/BGBirds.svg"
+  },
+  "resources/images/BGBoost.webp": {
+    "file": "assets/BGBoost.9219e7dc.webp",
+    "src": "resources/images/BGBoost.webp"
+  },
+  "resources/images/SVG/twitter.svg": {
+    "file": "assets/twitter.93d8559c.svg",
+    "src": "resources/images/SVG/twitter.svg"
+  },
+  "resources/images/SVG/BGTriangles.svg": {
+    "file": "assets/BGTriangles.73ae1ec4.svg",
+    "src": "resources/images/SVG/BGTriangles.svg"
+  },
+  "resources/images/SVG/pintrest.svg": {
+    "file": "assets/pintrest.5fb1ae8e.svg",
+    "src": "resources/images/SVG/pintrest.svg"
+  },
+  "resources/images/Footer-Test-.webp": {
+    "file": "assets/Footer-Test-.6ecd1469.webp",
+    "src": "resources/images/Footer-Test-.webp"
+  },
+  "resources/images/SVG/arrow.svg": {
+    "file": "assets/arrow.41a89fa0.svg",
+    "src": "resources/images/SVG/arrow.svg"
+  },
+  "resources/images/BGYellow.webp": {
+    "file": "assets/BGYellow.5f4fe117.webp",
+    "src": "resources/images/BGYellow.webp"
+  },
+  "resources/images/SVG/linkedin.svg": {
+    "file": "assets/linkedin.6c32d108.svg",
+    "src": "resources/images/SVG/linkedin.svg"
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app.dbcb8cce.js",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/About.jsx",
+      "resources/js/Pages/Auth/ConfirmPassword.jsx",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyEmail.jsx",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/Home.jsx",
+      "resources/js/Pages/Posts/Create.jsx",
+      "resources/js/Pages/Posts/Edit.jsx",
+      "resources/js/Pages/Posts/Index.jsx",
+      "resources/js/Pages/Services.jsx",
+      "resources/js/Pages/Welcome.jsx"
+    ],
+    "css": [
+      "assets/app.9608ae3e.css"
+    ],
+    "assets": [
+      "assets/blont.ce7e92b7.otf",
+      "assets/arrow.41a89fa0.svg",
+      "assets/facebook.5e3bf3f7.svg",
+      "assets/instagram.113e4287.svg",
+      "assets/tiktok.12736e32.svg",
+      "assets/twitter.93d8559c.svg",
+      "assets/pintrest.5fb1ae8e.svg",
+      "assets/linkedin.6c32d108.svg",
+      "assets/BGBoost.9219e7dc.webp",
+      "assets/BGBirds.e288e2d4.svg",
+      "assets/BGTriangles.73ae1ec4.svg",
+      "assets/BGYellow.5f4fe117.webp",
+      "assets/Footer-Test-.6ecd1469.webp"
+    ]
+  },
+  "resources/js/Pages/About.jsx": {
+    "file": "assets/About.7b9fe482.js",
+    "src": "resources/js/Pages/About.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_ScrollToPlugin.36783213.js",
+      "_Layout.7c05f43c.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "_ScrollToPlugin.36783213.js": {
+    "file": "assets/ScrollToPlugin.36783213.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "assets": [
+      "assets/united-kingdom.4758d85e.svg",
+      "assets/palestine.2148c9c5.svg"
+    ]
+  },
+  "_Layout.7c05f43c.js": {
+    "file": "assets/Layout.7c05f43c.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ScrollToPlugin.36783213.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ],
+    "assets": [
+      "assets/Whitelogo.16ed0a5c.svg"
+    ]
+  },
+  "_ApplicationLogo.7cc2d8f1.js": {
+    "file": "assets/ApplicationLogo.7cc2d8f1.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "assets": [
+      "assets/Logo.935e600c.svg",
+      "assets/Logo_Text.858904e0.svg"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
+    "file": "assets/ConfirmPassword.653e8bf9.js",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.874ada9d.js",
+      "_TextInput.7530171d.js",
+      "_InputLabel.c27f1add.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "_PrimaryButton.874ada9d.js": {
+    "file": "assets/PrimaryButton.874ada9d.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "_TextInput.7530171d.js": {
+    "file": "assets/TextInput.7530171d.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_InputLabel.c27f1add.js": {
+    "file": "assets/InputLabel.c27f1add.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "file": "assets/ForgotPassword.127f60da.js",
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.874ada9d.js",
+      "_TextInput.7530171d.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login.768aef64.js",
+    "src": "resources/js/Pages/Auth/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.874ada9d.js",
+      "_TextInput.7530171d.js",
+      "_InputLabel.c27f1add.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register.30ab4e1a.js",
+    "src": "resources/js/Pages/Auth/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.874ada9d.js",
+      "_TextInput.7530171d.js",
+      "_InputLabel.c27f1add.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "file": "assets/ResetPassword.343094fb.js",
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.874ada9d.js",
+      "_TextInput.7530171d.js",
+      "_InputLabel.c27f1add.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.jsx": {
+    "file": "assets/VerifyEmail.ad86aad4.js",
+    "src": "resources/js/Pages/Auth/VerifyEmail.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.874ada9d.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard.7bd49a41.js",
+    "src": "resources/js/Pages/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout.cf226326.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "_AuthenticatedLayout.cf226326.js": {
+    "file": "assets/AuthenticatedLayout.cf226326.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Home.jsx": {
+    "file": "assets/Home.c4709003.js",
+    "src": "resources/js/Pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_cybersky.bb188406.js",
+      "_ScrollToPlugin.36783213.js",
+      "resources/js/Pages/Welcome.jsx",
+      "_Layout.7c05f43c.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "_cybersky.bb188406.js": {
+    "file": "assets/cybersky.bb188406.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "assets": [
+      "assets/top-view-man-doing-online-shopping-his-laptop.9ee06c93.webp",
+      "assets/business-partners-handshake-international-corporate.bbaa2ff9.webp",
+      "assets/man-holding-credit-card-hand-entering-security-code-using-laptop-keyboard.854466ac.webp",
+      "assets/client1.1b1ad960.webp",
+      "assets/client2.5643f44b.webp",
+      "assets/client3.712e8d0a.webp",
+      "assets/cybersky.bac451b0.webp"
+    ]
+  },
+  "resources/js/Pages/Welcome.jsx": {
+    "file": "assets/Welcome.bfeb7e6c.js",
+    "src": "resources/js/Pages/Welcome.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_cybersky.bb188406.js",
+      "_ScrollToPlugin.36783213.js",
+      "_Layout.7c05f43c.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Create.jsx": {
+    "file": "assets/Create.f2d377eb.js",
+    "src": "resources/js/Pages/Posts/Create.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout.cf226326.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Edit.jsx": {
+    "file": "assets/Edit.58e92d91.js",
+    "src": "resources/js/Pages/Posts/Edit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout.cf226326.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Index.jsx": {
+    "file": "assets/Index.b2afe378.js",
+    "src": "resources/js/Pages/Posts/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout.cf226326.js",
+      "_ApplicationLogo.7cc2d8f1.js"
+    ]
+  },
+  "resources/js/Pages/Services.jsx": {
+    "file": "assets/Services.d683129c.js",
+    "src": "resources/js/Pages/Services.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo.7cc2d8f1.js",
+      "_ScrollToPlugin.36783213.js",
+      "_cybersky.bb188406.js"
+    ],
+    "assets": [
+      "assets/Blacklogo.ae43a7dc.svg"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.9608ae3e.css",
+    "src": "resources/js/app.css"
+  }
+}

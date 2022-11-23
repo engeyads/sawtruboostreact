@@ -1,0 +1,1 @@
+import{a as t,F as e,j as s}from"./app.dbcb8cce.js";const a="/build/assets/Logo.935e600c.svg",g="/build/assets/Logo_Text.858904e0.svg";function i({className:o}){return t(e,{children:[s("img",{src:a,className:o}),s("img",{src:g,className:"logotext"})]})}export{i as A};
